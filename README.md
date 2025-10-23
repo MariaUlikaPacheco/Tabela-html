@@ -24,3 +24,60 @@
 </body>
 </html>
 
+
+
+
+Formulário com dados académicos e pessoais 
+
+<form>
+  <h3>Dados Pessoais</h3>
+  <table border="1">
+    <tr>
+      <td>Nome Completo:</td>
+      <td><input type="text" value="Maria Ulika Pacheco"></td>
+    </tr>
+    <tr>
+      <td>Filiação:</td>
+      <td><input type="text" value="Filha de Domingos Félix Pacheco e de Luísa Filomena"></td>
+    </tr>
+    <tr>
+      <td>Data de Nascimento:</td>
+      <td><input type="text" value="06 de Dezembro de 1997"></td>
+    </tr>
+    <tr>
+      <td>Naturalidade:</td>
+      <td><input type="text" value="Província de Benguela"></td>
+    </tr>
+    <tr>
+      <td>Email:</td>
+      <td><input type="email" value="mariapachecomanuela@gmail.com"></td>
+    </tr>
+  </table>
+
+  <h3>Dados Académicos</h3>
+  <table border="1">
+    <tr>
+      <td>Escola:</td>
+      <td><input type="text" value="Instituto Médio Comercial de Luanda"></td>
+    </tr>
+    <tr>
+      <td>Classe:</td>
+      <td><input type="text" value="12ª Classe"></td>
+    </tr>
+    <tr>
+      <td>Número:</td>
+      <td><input type="text" value="18"></td>
+    </tr>
+    <tr>
+      <td>Sala:</td>
+      <td><input type="text" value="18"></td>
+    </tr>
+    <tr>
+      <td>Turno:</td>
+      <td><input type="text" value="Pós-laboral"></td>
+    </tr>
+  </table>
+</form>
+
+
+
