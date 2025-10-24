@@ -1,5 +1,5 @@
 
-<table= " ">
+<table="">
 
     <tr>
       <td>Nome Completo</td> <td>Idade</td> <td>Gênero</td> <td>Filiação</td> <td>Data de Nascimento</td> <td>Naturalidade</td> <td>Número de Telemóvel</td> <td>Email</td><td>Morada</td> <td>Escola</td> <td>Classe</td> <td>Número</td> <td>Sala</td> <td>Turno</td> 
