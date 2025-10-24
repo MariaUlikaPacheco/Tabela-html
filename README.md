@@ -1,7 +1,9 @@
-  <h1>Dados Pessoais e Académicos - Maria Ulika Pacheco</h1>
+
 <table= " ">
+
+    <tr>
+      <td>Nome Completo</td> <td>Idade</td> <td>Gênero</td> <td>Filiação</td> <td>Data de Nascimento</td> <td>Naturalidade</td> <td>Número de Telemóvel</td> <td>Email</td><td>Morada</td> <td>Escola</td> <td>Classe</td> <td>Número</td> <td>Sala</td> <td>Turno</td> 
     </tr>
-    <tr><td>Nome Completo</td> <td>Idade</td> <td>Gênero</td> <td>Filiação</td> <td>Data de Nascimento</td> <td>Naturalidade</td> <td>Número de Telemóvel</td> <td>Email</td><td>Morada</td> <td>Escola</td> <td>Classe</td> <td>Número</td> <td>Sala</td> <td>Turno</td> </tr>
 
     <tr> <td>Maria Ulika Pacheco</td> <td>22 anos</td> <td>Feminino</td> <td>Domingos Félix Pacheco e Luísa Filomena</td> <td>06 de dezembro de 2001</td> <td> Benguela</td> <td>928 998 835</td><td>mariapachecomanuela@gmail.com</td> <td>Jumbo</td> <td>Instituto Médio Comercial de Luanda</td> <td>12ª Classe</td> <td>18</td> <td>18</td> <td>Pós-Laboral</td> </tr>
 
