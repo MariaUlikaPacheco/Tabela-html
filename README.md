@@ -58,4 +58,50 @@ HTML _tabela dados pessoais e académicos
 
 
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulário Pessoal</title>
+</head>
+<body>
+  <h1>Formulário com meus dados</h1>
+  <form>
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" value="Maria Ulika Pacheco" readonly><br><br>
 
+    <label for="naturalidade">Naturalidade:</label>
+    <input type="text" id="naturalidade" value="Benguela" readonly><br><br>
+
+    <label for="bairro">Bairro:</label>
+    <input type="text" id="bairro" value="Madeira Jumbo" readonly><br><br>
+
+    <label for="idade">Idade:</label>
+    <input type="number" id="idade" value="26" readonly><br><br>
+
+    <label for="pai">Pai:</label>
+    <input type="text" id="pai" value="Domingos Félix Pacheco" readonly><br><br>
+
+    <label for="mae">Mãe:</label>
+    <input type="text" id="mae" value="Luísa Filomena Mendes" readonly><br><br>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" value="mariapachecomanuela@gmail.com" readonly><br><br>
+
+    <label for="escola">Escola:</label>
+    <input type="text" id="escola" value="Instituto Médio Comercial de Luanda" readonly><br><br>
+
+    <label for="turno">Turno:</label>
+    <input type="text" id="turno" value="Noite" readonly><br><br>
+
+    <label for="numero">Número:</label>
+    <input type="number" id="numero" value="23" readonly><br><br>
+
+    <label for="sala">Sala:</label>
+    <input type="number" id="sala" value="18" readonly><br><br>
+
+    <label for="curso">Curso:</label>
+    <input type="text" id="curso" value="Técnico Informática de Gestão" readonly><br><br>
+  </form>
+</body>
+</html>
