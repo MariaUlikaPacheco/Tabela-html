@@ -104,4 +104,29 @@ HTML _tabela dados pessoais e académicos
     <input type="text" id="curso" value="Técnico Informática de Gestão" readonly><br><br>
   </form>
 </body>
+</html> 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Página com Vídeo, Imagem e Áudio</title>
+</head>
+<body>
+  <h1>Página de Mídia</h1>
+
+  <h2>Minha Imagem</h2>
+  <img src="imagem.jpg" alt="Descrição da Imagem" width="400">
+
+  <h2>Meu Vídeo</h2>
+  <video width="400" controls>
+    <source src="video.mp4" type="video/mp4">
+    Seu navegador não suporta o elemento de vídeo.
+  </video>
+
+  <h2>Meu Áudio</h2>
+  <audio controls>
+    <source src="audio.mp3" type="audio/mpeg">
+    Seu navegador não suporta o elemento de áudio.
+  </audio>
+</body>
 </html>
