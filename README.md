@@ -130,3 +130,15 @@ HTML _tabela dados pessoais e académicos
   </audio>
 </body>
 </html>
+
+<form action="dados.js" method="post" enctype="multipart/form-data">
+  <label>Nome do cidadão</label>
+  <input type="text" name="nome_cidadao">
+  <br>
+
+  <label>Pesquisa no file</label>
+  <input type="file" name="foto" accept="image/*">
+  <br>
+
+  <button type="submit">Enviar</button>
+</form>
